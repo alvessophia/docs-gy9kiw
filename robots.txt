@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-rl8dku.leogaming.cfd/sitemap.xml
